@@ -16,6 +16,9 @@ body, html {
   background-color: #f6f8fa;
   font-family: "Poppins", sans-serif;
 }
+.patch {
+  overflow: hidden;
+}
 .text-7 {
     font-size: 1.75rem !important;
     font-weight: 600;
@@ -28,6 +31,8 @@ body, html {
 .project_skils {
   margin: 0;
   padding: 0;
+  display: none;
+
 }
 .project_skils_title {
   font-size: 16px;
